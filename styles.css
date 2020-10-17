@@ -69,3 +69,11 @@ h1 {
 h4 {
   margin-bottom: 0;
 }
+
+footer {
+  margin-top:auto; 
+  background-color: #edf2f4;
+  width: 100%;
+  text-align: center;
+  padding: 10px 0;
+}
